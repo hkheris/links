@@ -1,6 +1,6 @@
 ## Links to open source projects 
-Here are some open source projects that I have initiated and contributed. 
- 
+Here are some external open source projects that I have initiated and contributed. 
+
 - Large language models 
 
     1) https://github.com/microsoft/AzureDataRetrievalAugmentedGenerationSamples
