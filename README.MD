@@ -4,10 +4,9 @@ Here are some external open source projects that I have initiated and contribute
 - Large language models and generative AI  
 
     1) https://github.com/microsoft/AzureDataRetrievalAugmentedGenerationSamples
-    2) Azure Cosmosdb Mongodb vCore connector in LlamaIndex library:
-    - https://github.com/run-llama/llama_index/blob/main/llama_index/vector_stores/azurecosmosmongo.py: The connector
-    - https://github.com/run-llama/llama_index/blob/main/tests/vector_stores/test_azurecosmosmongo.py: The tests
-    - https://github.com/run-llama/llama_index/blob/main/docs/examples/vector_stores/AzureCosmosDBMongoDBvCoreDemo.ipynb: sample notebook
+    2) Azure Cosmosdb Mongodb vCore connector in LlamaIndex library, and sample notebook
+    https://docs.llamaindex.ai/en/stable/examples/vector_stores/AzureCosmosDBMongoDBvCoreDemo/
+    3) https://github.com/microsoft/promptflow-rag-project-template
     
 - Reinforcement learning
     1) https://github.com/microsoft/bonsai-InventoryManagement
